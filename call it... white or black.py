@@ -7,4 +7,3 @@ if skin == 'black':
     print("fuck you nigger.")
 elif skin == 'white':
     print("congratulations!")
-    asfasfasfasfsaf
