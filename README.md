@@ -1,2 +1,3 @@
-uhhidk
-getting started with stupid shit
+idk
+trying to get started with stupid shit
+wanna learn python
